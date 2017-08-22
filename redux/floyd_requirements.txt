@@ -1,0 +1,2 @@
+bcolz
+keras==1.2.2
